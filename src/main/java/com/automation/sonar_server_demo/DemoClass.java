@@ -49,6 +49,22 @@ public class DemoClass {
 			//int s = r + 10;
 
 		}
+		public void display_ssr2() {
+			System.out.println("name is   " + name + "   rollno is   " + rollno);
+
+			int i = 10;
+			int j = i + 10;
+			int k = j + 10;
+			int l = k + 10;
+			int m = l + 10;
+			int n = m + 10;
+			int o = n + 10;
+			int p = o + 10;
+			int q = p + 10;
+			int r = q + 10;
+			//int s = r + 10;
+
+		}
 
 	}
 

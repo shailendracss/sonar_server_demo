@@ -11,5 +11,6 @@ public class AppTest {
 		// obj.SetDeta(null, 0);
 		obj.display_ssr();
 		obj.display_ssr1();
+		obj.display_ssr2();
 	}
 }
