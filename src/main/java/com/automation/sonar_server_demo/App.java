@@ -10,5 +10,12 @@ public class App
     {
         System.out.println( "Hello World!" );
         Thread.sleep(2);
+       
+        int i = 42;
+        double d = Double.longBitsToDouble(i);
+    
     }
+    
+    
+  
 }
