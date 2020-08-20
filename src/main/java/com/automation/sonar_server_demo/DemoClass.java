@@ -69,7 +69,7 @@ public class DemoClass {
 
 	public void Demo() {
 		int target = -5;
-		int num = 3;
+		int num = 4;
 
 		target = -num; // Noncompliant; target = -3. Is that really what's meant?
 		target = +num; // Noncompliant; target = 33
