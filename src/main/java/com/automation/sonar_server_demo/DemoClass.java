@@ -63,11 +63,11 @@ public class DemoClass {
 		int p = o + 10;
 		int q = p + 10;
 		int r = q + 10;
-		// int s = r + 10;
+		//int s = r + 10;
 
 	}
 
-	public void Demo() {
+	public void demo() {
 		int target = -5;
 		int num = 4;
 
